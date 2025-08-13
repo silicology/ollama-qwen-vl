@@ -1,0 +1,11 @@
+[package]
+name = "ollama-qwen-vl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ollama-rs = "0.3.2"
+tokio = { version = "1", features = ["full"] }
+base64 = "0.22.1"
+reqwest = "0.12.23"
+serde_json = "1.0.142"
