@@ -1,0 +1,63 @@
+Here's the OCR extraction of the Hindi text from the images, including name, father's name, age, and gender.  Please note that OCR can have some errors, especially with complex scripts like Hindi.  I've tried my best to provide accurate extraction.
+
+**Here's the data extracted from each box:**
+
+**1.**
+*   **नाम:** निर्मला मुखिया 
+*   **पिता का नाम:** प्रभु नारायण प्रसाद
+*   **उम्र:** 77 वर्ष
+*   **लिंग:** महिला
+
+**2.**
+*   **नाम:** सुनिता देवी
+*   **पिता का नाम:** हरि मुखिया 
+*   **उम्र:** 72 वर्ष
+*   **लिंग:** महिला
+
+**3.**
+*   **नाम:** प्रभु नारायण प्रसाद
+*   **पिता का नाम:** जंगी मुखिया
+*   **उम्र:** 70 वर्ष
+*   **लिंग:** पुरुष 
+
+**4.**
+*   **नाम:** देवनानी देवी 
+*   **पिता का नाम:** किसुन मुखिया 
+*   **उम्र:** 58 वर्ष
+*   **लिंग:** महिला
+
+**5.**
+*   **नाम:** लक्ष्मी देवी
+*   **पिता का नाम:** सूरज मुखिया
+*   **उम्र:** 53 वर्ष
+*   **लिंग:** महिला
+
+**6.**
+*   **नाम:** सत्युग मुखिया
+*   **पिता का नाम:** हरि मुखिया
+*   **उम्र:** 53 वर्ष
+*   **लिंग:** पुरुष
+
+**7.**
+*   **नाम:** सुरेंद्र कुमार मुखिया
+*   **पिता का नाम:** हरि मुखिया
+*   **उम्र:** 52 वर्ष
+*   **लिंग:** पुरुष
+
+**8.**
+*   **नाम:** रविंद्र मुखिया
+*   **पिता का नाम:** बूधा मुखिया
+*   **उम्र:** 52 वर्ष
+*   **लिंग:** पुरुष
+
+**9.**
+*   **नाम:** नरेश कुमार
+*   **पिता का नाम:** हरि मुखिया
+*   **उम्र:** 46 वर्ष
+*   **लिंग:** पुरुष
+
+**Important Notes:**
+
+*   I've done my best, but there's a chance of errors. Double-check the extracted information if accuracy is crucial.
+*   The quality of the original image can affect the accuracy of OCR.
+*   Some Hindi characters can be ambiguous, leading to misinterpretations.

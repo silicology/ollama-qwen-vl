@@ -16,7 +16,7 @@ async fn main() {
 
     // Prepare the request
     let mut req = GenerationRequest::new(
-        "qwen2.5vl:latest".to_string(), // Model: qwen2.5vl:latest (https://ollama.com/library/qwen2.5vl)
+        "qwen2.5vl:latest".to_string(), // Model: qwen2.5vl:latest (https://ollama.com/library/qwen2.5vl), gemma3:27b
         "Do the ocr, its in hindi, extract name, fathers name, age and gender of all the boxes"
             .to_string(), // Prompt
     );
@@ -30,7 +30,7 @@ async fn main() {
 
             // Write the response to a text file
             let mut file =
-                fs::File::create("qwen-output.txt").expect("Failed to create output file");
+                fs::File::create("qwen-hindi-output.txt").expect("Failed to create output file");
             file.write_all(res.response.as_bytes())
                 .expect("Failed to write to output file");
 
